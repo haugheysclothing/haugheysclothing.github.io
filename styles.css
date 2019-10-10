@@ -10,7 +10,6 @@ body {
 
 .header-image {
   background-image: url("/images/pic.jpg");
-  height: 50%; 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
