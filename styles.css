@@ -8,7 +8,7 @@ body {
   height: 100%;
 }
 
-header-img {
+.header-img {
   background-image: url("images/pic.jpg");
   height: 50%; 
    background-position: center;
