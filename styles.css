@@ -124,22 +124,7 @@ li {
     float: none;
   }
 }
-.item2 { grid-area: menu; }
-.item3 { grid-area: main; }
-.item4 { grid-area: right; }
 
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    'menu main main main right right';
-  grid-gap: 10px;
-  padding: 10px;
-}
-
-.grid-container > div {
-  text-align: center;
-  padding: 20px 0;
-}
 .row > .column {
   padding: 0 8px;
 }
