@@ -157,8 +157,8 @@ li {
 .next {
   cursor: pointer;
   position: absolute;
-  top: 50%;
-  width: auto;
+  top: 25%;
+  width: 25;
   padding: 16px;
   margin-top: -50px;
   color: white;
@@ -198,7 +198,7 @@ img {
 .caption-container {
   text-align: center;
   background-color: black;
-  padding: 2px 16px;
+  padding: 2px 12px;
   color: white;
 }
 
