@@ -15,7 +15,8 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative; 
-  height: 40%;
+  max-height: 40%;
+  max-width: 100%
 }
 
 /* Place text in the middle of the image */
